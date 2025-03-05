@@ -25,7 +25,7 @@ cd College-Management-System
 # 2️⃣ Install Dependencies (if any):
 This script uses Python's built-in `smtplib`, `random`, and `email` modules, so no external dependencies are required.
 
-#3️⃣ Run the Application:
+# 3️⃣ Run the Application:
 ```bash
 python CMS.py
 ```
