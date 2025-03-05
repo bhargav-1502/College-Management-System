@@ -30,7 +30,7 @@ This script uses Python's built-in `smtplib`, `random`, and `email` modules, so 
 python CMS.py
 ```
 
-# How It Works
+# Usage
 1. Create a college by entering a unique college ID and name.
 2. Add teachers with name, email, and subject. The system sends an OTP for verification before registration.
 3. Add students with name, email, and branch, following the same OTP verification process.
