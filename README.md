@@ -17,15 +17,15 @@ This College Management System is a simple console-based application built using
 - **Console-based user interaction**
 
 # Installation & Usage
-# 1️⃣ Clone the Repository:
+# 1️ Clone the Repository:
 ```bash
 git clone https://github.com/yourusername/College-Management-System.git
 cd College-Management-System
 ```
-# 2️⃣ Install Dependencies (if any):
+# 2️ Install Dependencies (if any):
 This script uses Python's built-in `smtplib`, `random`, and `email` modules, so no external dependencies are required.
 
-# 3️⃣ Run the Application:
+# 3️ Run the Application:
 ```bash
 python CMS.py
 ```
@@ -34,7 +34,7 @@ python CMS.py
 1. Create a college by entering a unique college ID and name.
 2. Add teachers with name, email, and subject. The system sends an OTP for verification before registration.
 3. Add students with name, email, and branch, following the same OTP verification process.
-4. Display teacher and student details** associated with a college.
+4. Display teacher and student details associated with a college.
 5. Secure email authentication ensures only verified users are added.
 
 
